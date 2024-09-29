@@ -5,3 +5,7 @@
 ```
 cargo r
 ```
+
+## Preview
+
+![Image](./images/preview1.png)
